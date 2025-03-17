@@ -1,21 +1,18 @@
-As estruturas de dados impactam diretamente o desempenho de um programa, influenciando o tempo de execução, o uso de memória e a escalabilidade.
+### Impacto das Estruturas de Dados no Desempenho
 
-Impacto das Estruturas de Dados no Desempenho
+As estruturas de dados influenciam diretamente o desempenho de um programa, afetando o tempo de execução, o uso de memória e a escalabilidade. A escolha correta pode tornar um algoritmo mais eficiente e otimizado.
 
-Eficiência no acesso e busca de dados:
-Um array (lista) permite acesso rápido a elementos via índice (O(1)).
-Uma lista encadeada pode exigir O(n) para busca, pois precisa percorrer os elementos sequencialmente.
-Eficiência na inserção e remoção:
-Em um array, a inserção no meio pode ser O(n) devido à necessidade de realocar elementos.
-Em uma árvore balanceada (como AVL), operações de inserção e remoção podem ser O(log n).
-Uso otimizado de memória:
-Estruturas dinâmicas como listas encadeadas evitam desperdício de memória, pois alocam espaço conforme necessário.
-Estruturas como tabelas hash evitam buscas lineares repetitivas e reduzem o tempo de processamento.
+## Eficiência no Acesso e Busca de Dados
+Array (Lista): Permite acesso rápido a elementos via índice (O(1)).
+Lista Encadeada: Pode exigir O(n) para busca, pois é necessário percorrer os elementos sequencialmente.
+##Eficiência na Inserção e Remoção
+Array: Inserir ou remover elementos no meio pode ser O(n) devido à realocação necessária.
+Árvore Balanceada (como AVL): Operações de inserção e remoção podem ser feitas em O(log n), tornando-as mais eficientes.
+Uso Otimizado de Memória
+Listas Encadeadas: Alocam espaço dinamicamente, evitando desperdício de memória.
+Tabelas Hash: Eliminam buscas lineares repetitivas, reduzindo o tempo de processamento.
+##Exemplo Prático: Código Não Otimizado vs. Código Otimizado
+O código abaixo compara duas abordagens para buscar um número em uma lista de 1 milhão de elementos:
 
-Exemplo Prático: Código sem tratamento de estrutura de dados vs. Código otimizado
-O código abaixo compara duas abordagens para buscar um número em uma lista de 1 milhão de elementos.
-
-1 - Código sem otimização (busca linear em lista comum, O(n))
-2 - Código otimizado (busca em conjunto, O(1) em média)
-
-Criarei um arquivo comparacao_estruturas.py demonstrando essa diferença.
+#Código sem otimização: Utiliza busca linear em uma lista comum (O(n)).
+#Código otimizado: Utiliza um conjunto (set), reduzindo o tempo de busca para O(1) em média.
