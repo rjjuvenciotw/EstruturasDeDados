@@ -7,4 +7,5 @@ O tamanho de cada variável ou estrutura de dados é estabelecido antes do progr
 A memória alocada é automaticamente liberada quando a execução do programa é concluída.
 Geralmente é mais eficiente, pois evita a sobrecarga associada à alocação e desalocação de memória em tempo de execução.
 A principal limitação é a falta de flexibilidade, pois o tamanho das estruturas de dados deve ser conhecido antecipadamente.
-Em resumo, a alocação estática é uma abordagem de gerenciamento de memória que prioriza a eficiência e o controle, sendo particularmente útil em cenários onde os requisitos de memória são bem definidos antes da execução do programa.
+
+### Em resumo, a alocação estática é uma abordagem de gerenciamento de memória que prioriza a eficiência e o controle, sendo particularmente útil em cenários onde os requisitos de memória são bem definidos antes da execução do programa.
