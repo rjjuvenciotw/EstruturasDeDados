@@ -15,7 +15,7 @@ Estruturas como tabelas hash evitam buscas lineares repetitivas e reduzem o temp
 Exemplo Prático: Código sem tratamento de estrutura de dados vs. Código otimizado
 O código abaixo compara duas abordagens para buscar um número em uma lista de 1 milhão de elementos.
 
-1️⃣ Código sem otimização (busca linear em lista comum, O(n))
-2️⃣ Código otimizado (busca em conjunto, O(1) em média)
+1 - Código sem otimização (busca linear em lista comum, O(n))
+2 - Código otimizado (busca em conjunto, O(1) em média)
 
 Criarei um arquivo comparacao_estruturas.py demonstrando essa diferença.
