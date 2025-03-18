@@ -35,19 +35,3 @@ As fontes de pesquisa utilizadas para a criação deste material são:
 -   [Real-time application of Data Structures](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
 
 ---
-
-## Introdução
-
-### O que são Estruturas de Dados?
-
-Uma estrutura de dados é um método de organizar informações em um computador para que possam ser utilizadas e acessadas de maneira eficiente. Assim como uma caixa de ferramentas ajuda a organizar ferramentas para fácil acesso, uma estrutura de dados organiza os dados para armazenamento e recuperação eficientes em programas de computador. Essencialmente, uma estrutura de dados fornece uma forma para que um programa de computador ou outro sistema possa usar e trabalhar com dados. Ao dar forma a pontos de dados abstratos, as estruturas de dados permitem que os dados sejam organizados, manipulados e armazenados de maneira eficaz. Elas combinam tipos de dados primitivos, como números, caracteres e booleanos, em um formato coeso.
-
-### Importância na Ciência da Computação
-
-As estruturas de dados são um componente fundamental da ciência da computação. Elas possibilitam que os computadores processem grandes e complexos conjuntos de informações com maior facilidade. Ao organizar logicamente os elementos de dados, as estruturas de dados aumentam a eficiência do código do computador e o tornam mais simples de entender. Programadores confiam nas estruturas de dados para construir aplicações eficazes. Nos campos da ciência da computação e ciência de dados, as estruturas de dados são essenciais para sistemas operacionais, bancos de dados, websites, gráficos, análises, blockchain, aplicações de aprendizado de máquina (ML) e muito mais. Por serem fundamentais para escrever código eficaz, elas estão frequentemente entre as primeiras lições ensinadas aos iniciantes em programação. A escolha adequada de uma estrutura de dados pode otimizar o uso de recursos e reduzir a complexidade de tempo.
-
-### Exemplos de Aplicações no Mundo Real
-
-As estruturas de dados encontram aplicações em inúmeros cenários do mundo real. A forma como os dados são organizados impacta diretamente a eficiência com que podemos trabalhar com eles.
-
-| Estrutura de Dados | Exemplos de Aplicações
