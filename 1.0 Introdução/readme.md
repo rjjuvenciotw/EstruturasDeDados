@@ -14,7 +14,7 @@ A escolha da estrutura de dados adequada impacta diretamente na eficiência dos 
 As estruturas de dados estão presentes em diversas áreas da tecnologia e do dia a dia. Alguns exemplos incluem:
 
 ### 1. **Sistema Bancário**
-- **Fila (Queue)**: Quando você vai ao caixa eletrônico, seu pedido é processado na ordem em que foi feito. Assim, o primeiro cliente a chegar será o primeiro a ser atendido (**FIFO - First In, First Out**).
+- **Fila (Queue)**: Quando você vai ao caixa eletrônico, seu pedido é processado na ordem em que foi feito. Assim, o primeiro cliente a chegar será o primeiro a ser atendido (**FIFO - First In, First Out**)..
 
 ### 2. **Navegação GPS**
 - **Grafo (Graph)**: O sistema de navegação utiliza um grafo para calcular a rota mais curta entre dois pontos. Cada cidade ou localidade é um **nó**, e as rotas entre eles são as **arestas**.
