@@ -5,7 +5,7 @@ Conceitos de abordagem de estrutura e manipulação de dados genéricos com: lis
 
 Este repositório no GitHub serve como um guia abrangente para o aprendizado dos fundamentos das estruturas de dados em ciência da computação. As estruturas de dados são componentes essenciais, pois fornecem uma maneira de formatar pontos de dados abstratos, permitindo que usuários e sistemas organizem, trabalhem e armazenem dados de forma eficiente. Elas são a base para o desenvolvimento de software eficiente e eficaz.
 
-Na raiz deste repositório, um problema prático será apresentado e resolvido utilizando uma estrutura de dados linear específica (lista, fila ou pilha) no arquivo `solucao.py` ou `solucao.js`. Este exemplo prático demonstrará como os conceitos teóricos aprendidos podem ser aplicados para solucionar desafios do mundo real.
+Na raiz deste repositório, um problema prático será apresentado e resolvido utilizando uma estrutura de dados linear específica (lista, fila ou pilha) no arquivo `solucao.py`. Este exemplo prático demonstrará como os conceitos teóricos aprendidos podem ser aplicados para solucionar desafios do mundo real.
 
 ## Organização do Repositório
 
